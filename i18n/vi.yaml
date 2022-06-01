@@ -1,0 +1,73 @@
+toggleMenu:
+    other: Mở Menu
+
+darkMode:
+    other: Chế độ tối
+
+list:
+    page:
+        one: "{{ .Count }} trang"
+        other: "{{ .Count }} trang"
+
+    section:
+        other: Section
+
+    subsection:
+        one: Subsection
+        other: Subsections
+
+article:
+    back:
+        other: Quay lại
+
+    tableOfContents:
+        other: Nội dung
+
+    relatedContents:
+        other: Bài liên quan
+
+    lastUpdatedOn:
+        other: Cập nhật lần cuối vào
+
+    readingTime:
+        one: "{{ .Count }} phút đọc"
+        other: "{{ .Count }} phút đọc"
+
+notFound:
+    title:
+        other: Hmm...
+
+    subtitle:
+        other: Trang bạn tìm hình không tồn tạiDdwdwâdwa
+
+widget:
+    archives:
+        title:
+            other: Lưu trữ
+
+        more:
+            other: Khác
+
+    tagCloud:
+        title:
+            other: Tags
+    categoriesCloud:
+        title:
+            other: Phân loại
+
+search:
+    title:
+        other: Tìm bài viết
+
+    placeholder:
+        other: Nhập nội dung muốn tìm
+
+    resultTitle:
+        other: "#PAGES_COUNT pages (#TIME_SECONDS seconds)"
+
+footer:
+    builtWith:
+        other: Dựng bằng {{ .Generator }}, 
+
+    designedBy:
+        other: Xem nhiều hình hơn tại {{ .Theme }}, do {{ .DesignedBy }} chụp luôn
