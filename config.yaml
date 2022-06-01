@@ -50,7 +50,7 @@ params:
 
     sidebar:
         emoji: 🎈
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: Dont make me a passenger...
         avatar:
             enabled: true
             local: true
