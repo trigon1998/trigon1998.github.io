@@ -1,18 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Van Y</title>
+        <title>VanY</title>
         <link>https://trigon1998.github.io/</link>
-        <description>Recent content on Van Y</description>
+        <description>Recent content on VanY</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Về những nhật ký đã từng viết để qua môn</title>
-        <link>https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/</link>
+        <title>Về những bài nhật ký đã từng viết để qua môn</title>
+        <link>https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-b%C3%A0i-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/</link>
         <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/</guid>
-        <description>&lt;img src="https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/dong%20ho.JPG" alt="Featured image of post Về những nhật ký đã từng viết để qua môn" /&gt;&lt;h3 id=&#34;bài-nhật-ký-thứ-5---nhật-ký-cuối&#34;&gt;Bài nhật ký thứ 5 - Nhật ký cuối&lt;/h3&gt;
+        <guid>https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-b%C3%A0i-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/</guid>
+        <description>&lt;img src="https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-b%C3%A0i-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/dong%20ho.JPG" alt="Featured image of post Về những bài nhật ký đã từng viết để qua môn" /&gt;&lt;h3 id=&#34;bài-nhật-ký-thứ-5---nhật-ký-cuối&#34;&gt;Bài nhật ký thứ 5 - Nhật ký cuối&lt;/h3&gt;
+&lt;p&gt;Đọc mô tả thì có vẻ đây là một bài chầm cảm? Nhưng không&amp;hellip;&lt;/p&gt;
 &lt;h3 id=&#34;who&#34;&gt;Who&lt;/h3&gt;
 &lt;p&gt;Giáo viên dạy môn &lt;code&gt;C&amp;amp;B&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; của tôi từng yêu cầu cả lớp &amp;ldquo;này, các bạn hãy viết một bài nhật ký, viết về môn học này, hoặc về bất cứ cái gì các bạn thích&amp;rdquo;, và theo những gì tôi nhớ được thì ngay khi thầy thả ánh mắt nhẹ qua bọn quậy ngồi bàn đầu thì có nói thêm &amp;ldquo;nhưng đừng viết nhăng viết cuội là được&amp;rdquo;. Lý do viết? Thầy bảo là để trưng chơi, để bán đồng nát, nhưng tôi thừa biết là thầy đem về làm kỷ niệm (hi vọng vậy?).&lt;/p&gt;
 &lt;h3 id=&#34;what&#34;&gt;What&lt;/h3&gt;
@@ -64,8 +65,8 @@
         <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
         
         <guid>https://trigon1998.github.io/p/hello-world/</guid>
-        <description>&lt;img src="https://trigon1998.github.io/p/hello-world/hoa%20lan.JPG" alt="Featured image of post Hello World!" /&gt;&lt;h3 id=&#34;hello-world&#34;&gt;Hello world!&lt;/h3&gt;
-&lt;p&gt;Vì sao lại là &lt;code&gt;Hello World!&lt;/code&gt;? Vì đó là câu lệnh đầu tiên tui (có thể là bạn nữa) được học (bằng &lt;code&gt;pascal&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; chăng).&lt;/p&gt;
+        <description>&lt;img src="https://trigon1998.github.io/p/hello-world/hoa%20lan.JPG" alt="Featured image of post Hello World!" /&gt;&lt;h3 id=&#34;writeln-hello-world&#34;&gt;writeln (&amp;lsquo;Hello World!&amp;rsquo;);&lt;/h3&gt;
+&lt;p&gt;Sao lại là Hello World? Vì đó là câu đầu tiên tui (có thể là bạn nữa) được học (bằng &lt;code&gt;pascal&lt;/code&gt;&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; chăng).&lt;/p&gt;
 &lt;p&gt;Nó sẽ kiểu như thế này:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
@@ -81,19 +82,22 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;end.
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;Post này dùng để test&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; xem cái web tôi làm có đẩy bài lên được không thôi 🥲.&lt;/p&gt;
-&lt;p&gt;Vậy thôi, sờ tay tun để đọc được thêm nhiều điều nhảm nhí nhé. Bye.&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;Post này dùng để &lt;code&gt;test&lt;/code&gt;&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; xem cái web tôi làm có đẩy bài lên được không thôi (và may mắn là mọi thứ vẫn ổn, cảm ơn &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/GitHub&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Github&lt;/a&gt; và &lt;a class=&#34;link&#34; href=&#34;https://en.wikipedia.org/wiki/Hugo_%28software%29&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Hugo&lt;/a&gt;, đã để credit ở cuối web).&lt;/p&gt;
+&lt;p&gt;Vậy thôi, sờtaytun để đọc được thêm nhiều thứ nhảm nhí nhé. Bye.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;Ảnh chụp bởi mình, có thể xem nhiều ảnh cùng caption trầm cảm hơn tại IG.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Ảnh toàn bộ trang web được chụp bởi mình (trừ cái ảnh đại diện, btw nó là con corgi 🐶), có thể xem nhiều ảnh cùng caption trầm cảm hơn tại &lt;a class=&#34;link&#34; href=&#34;https://www.instagram.com/vany.ng&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;📸&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;Cái web cùi này mình lập nên không phải để học 300 bài code thiếu nhi đâu yên tâm 🥲 Mình học trường kinh tế mà.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Cái web cùi này mình lập nên không phải để học 300 bài code thiếu nhi đâu yên tâm;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
-&lt;p&gt;À mà sẵn khoe luôn, web này có auto &lt;code&gt;dảk mode&lt;/code&gt; theo khung giờ, hoặc có thể chủ động on/off, vì quan tâm đến cửa sổ tâm hồn là không thừa.&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;À mà sẵn khoe luôn, web này có auto &lt;code&gt;dảk mode&lt;/code&gt; theo khung giờ, hoặc có thể chủ động on/off, vì quan tâm đến cửa sổ tâm hồn là không thừa. Nếu có lỗi nhờ bạn nhắn mình để sửa nhé (❁´◡`❁)&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -105,26 +109,10 @@
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>https://trigon1998.github.io/ai-t%C3%B4i-%C3%A0/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache Licence 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+        <description>&lt;ul&gt;
+&lt;li&gt;Full name:&lt;/li&gt;
+&lt;li&gt;DOB:&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h3 id=&#34;contact&#34;&gt;Contact:&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.facebook.com/100004225337236/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
