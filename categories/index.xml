@@ -6,7 +6,15 @@
         <description>Recent content in Categories on VanY</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 31 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Music</title>
+        <link>https://trigon1998.github.io/categories/music/</link>
+        <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/categories/music/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>text</title>
         <link>https://trigon1998.github.io/categories/text/</link>
         <pubDate>Tue, 31 May 2022 00:00:00 +0000</pubDate>

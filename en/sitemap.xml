@@ -43,6 +43,16 @@
   </url><url>
     <loc>https://trigon1998.github.io/en/categories/music/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/categories/music/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/categories/music/"
+                />
   </url><url>
     <loc>https://trigon1998.github.io/en/post/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
@@ -182,7 +192,7 @@
     <loc>https://trigon1998.github.io/en/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://trigon1998.github.io/en/about/</loc>
+    <loc>https://trigon1998.github.io/en/who-me/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -192,7 +202,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://trigon1998.github.io/en/about/"
+                href="https://trigon1998.github.io/en/who-me/"
                 />
   </url><url>
     <loc>https://trigon1998.github.io/en/search/</loc>
