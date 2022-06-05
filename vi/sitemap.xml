@@ -28,19 +28,6 @@
                 href="https://trigon1998.github.io/categories/"
                 />
   </url><url>
-    <loc>https://trigon1998.github.io/categories/music/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trigon1998.github.io/en/categories/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://trigon1998.github.io/categories/music/"
-                />
-  </url><url>
     <loc>https://trigon1998.github.io/post/</loc>
     <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -54,11 +41,8 @@
                 href="https://trigon1998.github.io/post/"
                 />
   </url><url>
-    <loc>https://trigon1998.github.io/p/v%E1%BB%81-m%E1%BB%99t-ng%C3%A0y-sg-m%C6%B0a/</loc>
-    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://trigon1998.github.io/categories/text/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -68,6 +52,19 @@
                 rel="alternate"
                 hreflang="vi"
                 href="https://trigon1998.github.io/categories/text/"
+                />
+  </url><url>
+    <loc>https://trigon1998.github.io/p/v%E1%BB%81-m%E1%BB%99t-ng%C3%A0y-sg-m%C6%B0a/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/p/three-years-and-counting/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/p/v%E1%BB%81-m%E1%BB%99t-ng%C3%A0y-sg-m%C6%B0a/"
                 />
   </url><url>
     <loc>https://trigon1998.github.io/p/v%E1%BB%81-nh%E1%BB%AFng-b%C3%A0i-nh%E1%BA%ADt-k%C3%BD-%C4%91%C3%A3-t%E1%BB%ABng-vi%E1%BA%BFt-%C4%91%E1%BB%83-qua-m%C3%B4n/</loc>

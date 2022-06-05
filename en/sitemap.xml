@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://trigon1998.github.io/en/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
@@ -13,6 +13,58 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://trigon1998.github.io/en/"
+                />
+  </url><url>
+    <loc>https://trigon1998.github.io/en/categories/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/categories/"
+                />
+  </url><url>
+    <loc>https://trigon1998.github.io/en/post/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/post/"
+                />
+  </url><url>
+    <loc>https://trigon1998.github.io/en/categories/text/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/categories/text/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/categories/text/"
+                />
+  </url><url>
+    <loc>https://trigon1998.github.io/en/p/three-years-and-counting/</loc>
+    <lastmod>2022-06-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="https://trigon1998.github.io/p/v%E1%BB%81-m%E1%BB%99t-ng%C3%A0y-sg-m%C6%B0a/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://trigon1998.github.io/en/p/three-years-and-counting/"
                 />
   </url><url>
     <loc>https://trigon1998.github.io/en/p/about-the-time-we-used-to-be-together/</loc>
@@ -28,44 +80,8 @@
                 href="https://trigon1998.github.io/en/p/about-the-time-we-used-to-be-together/"
                 />
   </url><url>
-    <loc>https://trigon1998.github.io/en/categories/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://trigon1998.github.io/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trigon1998.github.io/en/categories/"
-                />
-  </url><url>
     <loc>https://trigon1998.github.io/en/categories/music/</loc>
     <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://trigon1998.github.io/categories/music/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trigon1998.github.io/en/categories/music/"
-                />
-  </url><url>
-    <loc>https://trigon1998.github.io/en/post/</loc>
-    <lastmod>2022-05-31T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://trigon1998.github.io/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trigon1998.github.io/en/post/"
-                />
   </url><url>
     <loc>https://trigon1998.github.io/en/p/test-chinese/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
@@ -172,19 +188,6 @@
   </url><url>
     <loc>https://trigon1998.github.io/en/p/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://trigon1998.github.io/en/categories/text/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="https://trigon1998.github.io/categories/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://trigon1998.github.io/en/categories/text/"
-                />
   </url><url>
     <loc>https://trigon1998.github.io/en/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
