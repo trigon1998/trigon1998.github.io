@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on VanY</title>
+        <link>https://trigon1998.github.io/en/categories/</link>
+        <description>Recent content in Categories on VanY</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Music</title>
+        <link>https://trigon1998.github.io/en/categories/music/</link>
+        <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/music/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Text</title>
+        <link>https://trigon1998.github.io/en/categories/text/</link>
+        <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/text/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test</title>
+        <link>https://trigon1998.github.io/en/categories/test/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/test/</guid>
+        <description>&lt;img src="https://trigon1998.github.io/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        </item>
+        <item>
+        <title>测试</title>
+        <link>https://trigon1998.github.io/en/categories/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>syntax</title>
+        <link>https://trigon1998.github.io/en/categories/syntax/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/syntax/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>themes</title>
+        <link>https://trigon1998.github.io/en/categories/themes/</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/themes/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Test with whitespaces</title>
+        <link>https://trigon1998.github.io/en/categories/test-with-whitespaces/</link>
+        <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/categories/test-with-whitespaces/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Pages on VanY</title>
+        <link>https://trigon1998.github.io/en/page/</link>
+        <description>Recent content in Pages on VanY</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://trigon1998.github.io/en/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Archives</title>
+        <link>https://trigon1998.github.io/en/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/archives/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Who, me?</title>
+        <link>https://trigon1998.github.io/en/who-me/</link>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/who-me/</guid>
+        <description>&lt;p&gt;&lt;del&gt;* Full name:&lt;/del&gt;
+&lt;del&gt;* DOB:&lt;/del&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://trigon1998.github.io/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://trigon1998.github.io/en/search/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>
